@@ -1,1 +1,21 @@
-# Ejercicios-de-Clases-de-POO.Individual
+# Ejercicios de Clases de POO.Individual
+
+## Estructuras de Datos y Algoritmos
+
+### Pablo Marquez Lopez
+
+#### Para ver este repositorio en línea haz click en el siguiente enlace: https://github.com/pablomarquezuax/Ejercicios-de-Clases-de-POO.Individual.git
+
+***Apartados A y B en el archivo "palindromos.py"***
+
+***Apartado C en el archivo "puzzle.py"***
+
+***Apartado D en el archivo "logger.py"***
+
+Para ver el UML de cada uno de estos archivos haz click en los links indicados mas abajo.
+
+**UML Palindromos:** [Haz click aqui](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=UML_Palindromo.drawio#R7VZNb8MgDP01kbrDpJJ0%2FTiu7T6lTZN62LGigSVIBDLiLOl%2B%2FZwCTaNsUnuY1sMuETwb%2B%2FFMDEG0yOo7Q%2FP0STMug3DI6iBaBmE4mY3w2wBbC1yNhhZIjGAWIi2wEp%2Fcgd6tFIwXHUfQWoLIu2CsleIxdDBqjK66bm9adrPmNOE9YBVT2UdfBYPUotNw0uL3XCSpz0zGM2vJqHd2OylSynR1AEU3QbQwWoMdZfWCy0Y7r4tdd%2FuDdU%2FMcAXHLHgmrxlZxo8whaUaFQ%2F1p769dFE%2BqCzdhl%2BoFIoZnWlHG7ZeC6NLxXgTbhhE8yoVwFc5jRtrhcVHLIVM4ozg0AXmBnj9I2Oy1wHPD9cZB7NFF79g6qRzZ8dPq7YQZOKw9KAIY4dRV%2FtkH7mVBwdOoRPUCntqLSjjigbRNcIrMEIlZ6caGf21bFFPtiAcS8w6Z%2BIDhwnsdm6hIqeqI%2BD4vWx%2BkfmbVnBZ7BpEozYJ89ouc3YfaL0WSsB6PYh7tbnwSXAbNk83N8LfMPoNkj7QxnzD4W%2Bp8aJtAYML67zBlns2BM9YO%2BAFDP5P2RHU8FIHUwrzr9ZxPQ2fVdjSThXrzK6icHjkVURmp99FOG0fUzvbwYs0uvkC) 
+
+**UML Puzzle:** [Haz click aqui](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=UML_A.drawio#RzZVbb4IwFIB%2FDcn2YALUy%2FY4mdNsmS8mW%2FbY0UqbFMpKEfDXr9AWxEumWUx80fY77enh6xEdEMTlXMCUvHOEmeO7qHTAs%2BP7k8eh%2BqxBpcFo6GoQCYo08jqwoltsoF2WU4Sz3kLJOZM07cOQJwkOZY9BIXjRX7bmrH9qCiN8AFYhZIf0kyJJNH0YuR1fYBoRe7LnmkgM7WIDMgIRL3YQmDkgEJxLPYrLALPanfWi972ciLaFCZzIczZUUfY6n6Hqi4RvmwFfLpYfw4HJsoEsNw%2F8ZKqVlVUgeJ4gXGdxHTAtCJV4lcKwjhbqzhUjMmZq5qmhyYeFxOXJQr328VXbYB5jKSq1xGwAVm7VOtXzorsAz1olO%2FLHhkFz51GbutOiBsbMBZb8A0u3J2lypiRwLUngiKQxU6dOsxQmPVvjn7zu%2BumaJ3KQNb951Xau56dlY8fG1Siqv7d3GWbre5tPladT6qjFiG720b9Ptom%2BxT45UYTCR%2Bq4RmlVI8Xxg%2FqV%2BJebo%2FX3qrqxfvbdM%2Fv54fJ%2BVtPutdvEdv67wOwX)
+
+**UML Logger:** [Haz click aqui](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=UML_Logger.drawio#R3VjbTuMwEP2aSPBQlEtT6CNtWVZadrUSe4GnyiQmMTh21pnSdL9%2Bx7XTNCTQIrVLxUtlH89MZs6cOHadYJyVl4rk6VcZU%2B74blw6wcTx%2FdNhH381sDBA2HcNkCgWG8irgWv2l1qwMpuxmBYNQ5CSA8ubYCSFoBE0MKKUnDfN7iVvPjUnCW0B1xHhbfQ3iyE16Fno1vhnypK0erLn2pWMVMYWKFISy%2FkaFFw4wVhJCWaUlWPKNXcVL8bv0wurq8QUFbCNw220%2BBINirNf5eVln3%2B7Sa%2F8856N8kT4zBb8gxZgE4ZFxYKSMxFTHch1gtE8ZUCvcxLp1Tm2HbEUMo4zD4c2JFVAyxdz9VYMoHKozCioBZqUKxqNi1WNN7Dzed0DryI2XeO%2FsiO27ckqdM0MDiw5byDKbxF1cCStlLaJpGBfJAUtkjgnGYnJ0bETnOsVif4Hx1v43uIKW7z9BMbZX9LiCquGJiGEs0TgOMLqqUJAc8NwAzu3CxmLY%2B0%2BUrTAkHfLUJrpXDIBy1LCkRNOdKwZyMJswTp0AUo%2B0rHkEuNOhBQ6yj3j%2FBm0g54E%2FrMXftjuyeB%2FSnnQasmVTBIk%2BL3V2z99xpTbod4uqvam3tOOrXHAtUxj9oTDBJaVG6jIiWgQOPgz01%2FA0b0U0DPi0zuF5%2BelcbPrVSDUHxUks2Yo0Soy5m6CNx%2BIcEca%2B8isCnSnOnLYT2p3JHpMlgrsRead1BkywYAR3pkkl8k0QgeoTOGNSR6a%2FLtOBl3yP9uX%2FL32GWpnkppOdS%2Bn06OW6o83tO2DCHzb1FDWRxkVBXlYp2jtzPFqnp0FfdxdY3v14WUOxbdLIg9s%2B%2FD7W24fqwPh7veP9k2CxngHtVOpIJWJFIRf1OioyVttcyVlbtl6oAALe6HWB7sml7RkcLM2vtWhTkI7m5Q28nKyqCYC69VOPffE9YYVYlyHflgBtfdy1nD%2FThVD3vRJdQma2nXBr3cU%2BZEzFdHNVzQgKqGw6bzSVoiinAB7aubxhm7jtL7ML9fW%2FhEJLv4B) 
